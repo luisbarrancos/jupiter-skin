@@ -1,6 +1,6 @@
 Jupiter Skin
 =============
-Jupiter Skin is a project container for several skin shaders developed by `/*jupiter jazz*/`.
+Jupiter Skin is a project container for several skin shaders developed by Luis Barrancos, for `/*jupiter jazz*/`.
 
 At the moment this project features the following shaders:
 
